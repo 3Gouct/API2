@@ -1,32 +1,3 @@
-  Skip to content
-    Search or jump to…
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-    
-    @3Gouct
-    3Gouct
-    /
-    API
-    Public
-    Code
-    Issues
-    Pull requests
-    Actions
-    Projects
-    Wiki
-    Security
-    Insights
-    Settings
-    API/.appveyor.yml
-    @3Gouct
-    3Gouct cheange json
-    Latest commit c470e27 13 days ago
-    History
-    1 contributor
-    17 lines (12 sloc)  616 Bytes
-
   image: Ubuntu  # образ для сборки
 
   stack: jdk 11  # версия JDK
